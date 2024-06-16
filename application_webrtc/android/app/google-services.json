@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "905646284499",
+    "project_id": "webrtc-app-ac",
+    "storage_bucket": "webrtc-app-ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905646284499:android:b62326ae63f8b48b26be26",
+        "android_client_info": {
+          "package_name": "com.example.application_webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905646284499-89bi4j1m7b8jigm1r732uktejs0n0l0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRw4m_wIE2FQt5LVdhIFN68xDNEkzILQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905646284499-89bi4j1m7b8jigm1r732uktejs0n0l0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905646284499-3obvu3jnse6h0hbglc2574j38jh6jfbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationWebrtc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905646284499:android:1517c1112eea4a8b26be26",
+        "android_client_info": {
+          "package_name": "com.ya.family.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905646284499-89bi4j1m7b8jigm1r732uktejs0n0l0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRw4m_wIE2FQt5LVdhIFN68xDNEkzILQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905646284499-89bi4j1m7b8jigm1r732uktejs0n0l0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905646284499-3obvu3jnse6h0hbglc2574j38jh6jfbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationWebrtc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

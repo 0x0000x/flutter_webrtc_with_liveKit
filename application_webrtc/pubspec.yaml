@@ -1,0 +1,44 @@
+name: application_webrtc
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  get: ^4.6.6
+
+  # APIs
+  flutter_webrtc: ^0.9.47
+
+  # Firebase
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+
+  # Icons
+  cupertino_icons: ^1.0.6
+  # firebase_auth: ^4.16.0
+  livekit_client: ^1.5.6
+  shared_preferences: ^2.2.2
+  appwrite: ^11.0.1
+  flutter_secure_storage: ^9.0.0
+  flutter_local_notifications: ^16.3.0
+  firebase_messaging: ^14.7.10
+  loading_animation_widget: ^1.2.0+4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
